@@ -1,0 +1,36 @@
+/* basic elements */
+html {
+	margin: 0;
+	padding: 0;
+	}
+body {
+ 	 background-color: teal;
+}
+
+h1 {
+ 	 color: white;
+ 	 text-align: center;
+  	font-family: algerian;
+  	margin: 0;
+  	padding: 0;
+}
+h4 {
+	text-align: center;
+	font-family: cambria;
+	font-size: 35px;
+	margin: 0;
+	padding: 0;
+	}
+h3 {
+	text-align: center;
+	font-family: cambria;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+p {
+	text-align: center;
+	font-family: cambria;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+}
